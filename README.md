@@ -27,4 +27,15 @@ According to salary.com the average salary for a New York Taxi Driver is around 
 Data Understanding
 The NYC Taxi and Limousine Commission data came from 
 NYC.gov
-. The data consisted of approximately 408k unique trips and 18 features. The features included information on trip duration and destination, vendor used, toll information, and payment type. The bar chart below shows the breakdown of how many generous tippers (>20%) versus non-generous tippers that exist in the data set. 
+. The data consisted of approximately 408k unique trips and 18 features. The features included information on trip duration and destination, vendor used, toll information, and payment type. The bar chart below shows the breakdown of how many generous tippers (>20%) versus non-generous tippers that exist in the data set. ![image](https://github.com/user-attachments/assets/2bdb97ae-efa2-4828-b303-c88d90868ba9)
+Conclusion
+This model can benefit Taxi Drivers in knowing if they will be tipped generously or not; however, running a parametric model to determine how much each variable will influence the actual price of the tip. In the future, adding more information on a rider’s past tipping behavior may also be beneficial in helping the stakeholder address their business problem. 
+
+
+Outside of the README file, it is important to have the data i used, cleaned up Python notebook files, a presentation, and any images i may have used on your GitHub repository. 
+![image](https://github.com/user-attachments/assets/51ce3fc4-0ed3-4671-a0a7-44d4f4f30c3d)
+
+Checked out  additional resource from 
+DataQuest
+ that walks me through how to add files to your online Github portfolio. The goal is to have all project information in one repository that will help an employer understand your project, run your code, and clearly know your business recommendations.
+
